@@ -14,6 +14,8 @@ export default class Search {
       return this.result;
     } catch (error) {
       alert(error);
+
+      
     }
   }
 }

@@ -453,8 +453,7 @@ body {
   .shopping__count {
     flex: 0 0 7.5rem;
     padding: .4rem .5rem;
-    border: 1px solid #F2EFEE;
-    border-radius: 3px;
+    border: none;
     margin-right: 2rem;
     cursor: pointer;
     display: flex;

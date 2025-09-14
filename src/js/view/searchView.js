@@ -2,7 +2,6 @@ import { elements } from "./base";
 
 //private function
 const renderRecipe = (recipe) => {
-  console.log(recipe);
   const markup = `
  <li>
                     <a class="results__link results__link--active" href="#${recipe.id}">
